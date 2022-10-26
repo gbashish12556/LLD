@@ -22,7 +22,7 @@ public class DoublyLinkedList<E> {
 
     private Boolean isItemExist(){
 
-        if(headNode.getNext() != tailNode.getPrevious()){
+        if(headNode.getNext() != tailNode){
             return true;
         }
         return false;

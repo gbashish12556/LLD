@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29b541b5-f294-4e97-9731-6ad2f8b8fffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_junitrunner_mockito.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_collections.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/opentest4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ashishgupta/algorithms/DoublyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ashishgupta/cache/CacheTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/algorithms/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/algorithms/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ashishgupta/algorithms/DoublyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ashishgupta/algorithms/DoublyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ashishgupta/algorithms/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ashishgupta/algorithms/DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ashishgupta/cache/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ashishgupta/cache/Cache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ashishgupta/algorithms/DoublyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ashishgupta/algorithms/DoublyLinkedListTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,72 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="DoublyLinkedListTest.testDLLAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CacheTest.itShouldBeAbleToGetAndAddItemsInTheCache">
+    <configuration name="CacheTest.itShouldBeAbleToGetAndAddItemsInTheCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SingleLevelCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashishgupta.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ashishgupta.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.ashishgupta.cache.CacheTest" />
+      <option name="METHOD_NAME" value="itShouldBeAbleToGetAndAddItemsInTheCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CacheTest.shouldAddElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SingleLevelCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashishgupta.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ashishgupta.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.ashishgupta.cache.CacheTest" />
+      <option name="METHOD_NAME" value="shouldAddElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CacheTest.shouldBeAbleToAddItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SingleLevelCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashishgupta.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ashishgupta.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.ashishgupta.cache.CacheTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToAddItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CacheTest.testElelemts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SingleLevelCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashishgupta.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ashishgupta.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.ashishgupta.cache.CacheTest" />
+      <option name="METHOD_NAME" value="testElelemts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testDLLDetach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SingleLevelCache" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +128,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.ashishgupta.algorithms" />
       <option name="MAIN_CLASS_NAME" value="com.ashishgupta.algorithms.DoublyLinkedListTest" />
-      <option name="METHOD_NAME" value="testDLLAddition" />
+      <option name="METHOD_NAME" value="testDLLDetach" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DoublyLinkedListTest.testDLLAddition" />
+        <item itemvalue="JUnit.CacheTest.itShouldBeAbleToGetAndAddItemsInTheCache" />
+        <item itemvalue="JUnit.CacheTest.testElelemts" />
+        <item itemvalue="JUnit.CacheTest.shouldBeAbleToAddItems" />
+        <item itemvalue="JUnit.CacheTest.shouldAddElement" />
+        <item itemvalue="JUnit.DoublyLinkedListTest.testDLLDetach" />
       </list>
     </recent_temporary>
   </component>
@@ -96,5 +165,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SingleLevelCache$CacheTest_shouldAddElement.ic" NAME="CacheTest.shouldAddElement Coverage Results" MODIFIED="1666806008146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ashishgupta.cache.*</FILTER>
+    </SUITE>
   </component>
 </project>

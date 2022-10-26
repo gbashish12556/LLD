@@ -1,5 +1,6 @@
 package com.ashishgupta.cache;
 
+import com.ashishgupta.cache.exception.NotFoundException;
 import com.ashishgupta.cache.exception.StorageFullException;
 import com.ashishgupta.cache.policy.EvictionPolicy;
 import com.ashishgupta.cache.storage.Storage;
@@ -26,5 +27,9 @@ public class Cache<Key,Value> {
             }
             put(key,value);
         }
+    }
+
+    public Value get(Key key) throws NotFoundException {
+        return storage.get(key);
     }
 }
