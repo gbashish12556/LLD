@@ -14,6 +14,8 @@ public class DoublyLinkedList<E> {
 
         headNode = new DoublyLinkedListNode(null);
         tailNode = new DoublyLinkedListNode(null);
+        headNode.setNext(tailNode);
+        tailNode.setPrevious(headNode);
 
     }
 
@@ -42,7 +44,7 @@ public class DoublyLinkedList<E> {
     }
 
 
-    private void addNodeAtLast(DoublyLinkedListNode doublyLinkedListNode){
+    public void addNodeAtLast(DoublyLinkedListNode doublyLinkedListNode){
         DoublyLinkedListNode prevNode = tailNode.getPrevious();
         prevNode.setNext(doublyLinkedListNode);
         doublyLinkedListNode.setPrevious(prevNode);
