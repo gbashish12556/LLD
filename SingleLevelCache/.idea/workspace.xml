@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29b541b5-f294-4e97-9731-6ad2f8b8fffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ashishgupta/cache/CacheTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/algorithms/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/algorithms/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ashishgupta/algorithms/DoublyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ashishgupta/algorithms/DoublyLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ashishgupta/algorithms/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ashishgupta/algorithms/DoublyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ashishgupta/cache/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ashishgupta/cache/Cache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ashishgupta/algorithms/DoublyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ashishgupta/algorithms/DoublyLinkedListTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
