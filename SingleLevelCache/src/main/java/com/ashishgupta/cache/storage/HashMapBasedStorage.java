@@ -50,6 +50,7 @@ public class HashMapBasedStorage<Key,Value> implements Storage<Key, Value>{
     public void remove(Key key) throws NotFoundException {
         if (storage.containsKey(key)){
             storage.remove(key);
+            return;
         }
         throw new NotFoundException("Element not found");
     }

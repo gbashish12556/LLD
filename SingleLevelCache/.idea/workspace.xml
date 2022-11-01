@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29b541b5-f294-4e97-9731-6ad2f8b8fffd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiLayeredCache/src/problem-statement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/storage/HashMapBasedStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ashishgupta/cache/storage/HashMapBasedStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/ashishgupta/Desktop/LLD/SingleLevelCache",
+    "last_opened_file_path": "/Users/ashishgupta/Desktop/Extras/LLD/SingleLevelCache",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

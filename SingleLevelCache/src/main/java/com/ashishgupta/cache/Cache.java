@@ -30,6 +30,7 @@ public class Cache<Key,Value> {
     }
 
     public Value get(Key key) throws NotFoundException {
+        evictionPolicy.keyAccessed(key);
         return storage.get(key);
     }
 }
